@@ -1,0 +1,28 @@
+C:\Users\Константин\Desktop\Udp_1\Udp_1\bin\Debug\Udp_1.exe.config
+C:\Users\Константин\Desktop\Udp_1\Udp_1\bin\Debug\Udp_1.exe
+C:\Users\Константин\Desktop\Udp_1\Udp_1\bin\Debug\Udp_1.pdb
+C:\Users\Константин\Desktop\Udp_1\Udp_1\obj\Debug\Udp_1.csprojAssemblyReference.cache
+C:\Users\Константин\Desktop\Udp_1\Udp_1\obj\Debug\Udp_1.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\Udp_1\Udp_1\obj\Debug\Udp_1.exe
+C:\Users\Константин\Desktop\Udp_1\Udp_1\obj\Debug\Udp_1.pdb
+C:\Users\Константин\Desktop\Software for Robot\Udp_1\Udp_1\bin\Debug\Udp_1.exe.config
+C:\Users\Константин\Desktop\Software for Robot\Udp_1\Udp_1\bin\Debug\Udp_1.exe
+C:\Users\Константин\Desktop\Software for Robot\Udp_1\Udp_1\bin\Debug\Udp_1.pdb
+C:\Users\Константин\Desktop\Software for Robot\Udp_1\Udp_1\obj\Debug\Udp_1.csprojAssemblyReference.cache
+C:\Users\Константин\Desktop\Software for Robot\Udp_1\Udp_1\obj\Debug\Udp_1.csproj.CoreCompileInputs.cache
+C:\Users\Константин\Desktop\Software for Robot\Udp_1\Udp_1\obj\Debug\Udp_1.exe
+C:\Users\Константин\Desktop\Software for Robot\Udp_1\Udp_1\obj\Debug\Udp_1.pdb
+E:\Software for Robot\Udp_1\Udp_1\bin\Debug\Udp_1.exe.config
+E:\Software for Robot\Udp_1\Udp_1\bin\Debug\Udp_1.exe
+E:\Software for Robot\Udp_1\Udp_1\bin\Debug\Udp_1.pdb
+E:\Software for Robot\Udp_1\Udp_1\obj\Debug\Udp_1.csprojAssemblyReference.cache
+E:\Software for Robot\Udp_1\Udp_1\obj\Debug\Udp_1.csproj.CoreCompileInputs.cache
+E:\Software for Robot\Udp_1\Udp_1\obj\Debug\Udp_1.exe
+E:\Software for Robot\Udp_1\Udp_1\obj\Debug\Udp_1.pdb
+H:\Проги\Software for Robot\Udp_1\Udp_1\bin\Debug\Udp_1.exe.config
+H:\Проги\Software for Robot\Udp_1\Udp_1\bin\Debug\Udp_1.exe
+H:\Проги\Software for Robot\Udp_1\Udp_1\bin\Debug\Udp_1.pdb
+H:\Проги\Software for Robot\Udp_1\Udp_1\obj\Debug\Udp_1.csprojAssemblyReference.cache
+H:\Проги\Software for Robot\Udp_1\Udp_1\obj\Debug\Udp_1.csproj.CoreCompileInputs.cache
+H:\Проги\Software for Robot\Udp_1\Udp_1\obj\Debug\Udp_1.exe
+H:\Проги\Software for Robot\Udp_1\Udp_1\obj\Debug\Udp_1.pdb
